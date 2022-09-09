@@ -1,0 +1,52 @@
+.formstyle{
+    background: whitesmoke;
+
+}
+body {
+    background-color: rgb(101, 167, 208);
+
+ }
+
+.divpadding{
+
+    padding-top: 150px;
+}
+#side_nav{
+    background-color:rgb(33,37,41);
+    min-width: 250px;
+    max-width: 250px;
+ }
+
+ .content{
+    min-height: 100vh;
+    width: 100%;
+ }
+ h.h-color{
+    background-color: white;
+
+ }
+ .sidebar li.active{
+     background: white;
+     border-radius: 8px;
+ }
+
+ .sidebar li.active button, .sidebar li.active button:hover {
+    color: black;
+ }
+ .sidebar li button{
+    color: #fff;
+    border: none;
+ }
+ .divprelievopadding{
+
+    padding-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pstyle{
+   margin-bottom: 5px;
+}
+.searchStyle{
+   margin-left: 230px;
+}
